@@ -468,7 +468,7 @@ h2 {
     text-shadow: 0 0 8px #ffb000;
 }
 
-p {
+. instructions {
     background: rgba(0, 0, 0, 0.6);
     border: 1px solid #ffb000;
     border-radius: 10px;
